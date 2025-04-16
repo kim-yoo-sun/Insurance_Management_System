@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/img_prod_car.png</file>
+        <file>images/img_prod_travel.png</file>
+        <file>images/insurance_logo.jpg</file>
+        <file>images/insurance_logo_main.jpg</file>
+    </qresource>
+</RCC>
